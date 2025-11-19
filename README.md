@@ -99,7 +99,7 @@ PolicyPath is built on three core components:
 - Google Cloud project with Sheets API enabled
 
 ### **1. Clone Repository**
-git clone https://github.com/yourusername/policypath.git
+git clone https://github.com/AbhishekhVerma/policypath.git
 cd policypath
 
 
